@@ -7,7 +7,7 @@ WrapPixel’s **MaterialPro** Bootstrap Admin is a premium bootstrap material de
 - [MaterialPro Bootstrap Admin](https://www.wrappixel.com/templates/materialpro/?ref=157) - product page
 - [MaterialPro Bootstrap Admin Demo](https://www.wrappixel.com/demos/admin-templates/materialpro-bootstrap-latest/material-pro/src/material/) - LIVE deploy
 - [MaterialPro Bootstrap Admin Demo2](https://www.wrappixel.com/demos/admin-templates/materialpro-bootstrap-latest/material-pro/src/dark/) - LIVE deploy (Dark Version)
-- [MaterialPro Bootstrap Admin Docs](https://www.wrappixel.com/demos/admin-templates/material-pro/Documentation/document.html) - product page
+- [MaterialPro Bootstrap Admin Docs](https://www.wrappixel.com/demos/admin-templates/material-pro/Documentation/document.html) - official product documentation
 
 <br />
 
